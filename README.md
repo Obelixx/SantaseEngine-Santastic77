@@ -36,6 +36,8 @@ Basicly the game consits of 2 stages and 2 fifferent approaches based on witch p
 
 - In the beggining we used standard Chain of responsibility pattern, but later we removed the anstracts(middle) class, becouse the ai.bgcoder.com - system, did not recognise witch public class with IPlayer in inheritance chanin is the main class. Now it is allmost the same method, but it it a liitle bit mannuali implemented in every class. 
 
+### REPO: https://github.com/Obelixx/SantaseEngine-Santastic77
+
 ### Team Members
 * _Obelixx - Александър Ангелов_
 * _stellaval - Стелла Вълчева_
